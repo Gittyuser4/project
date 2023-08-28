@@ -1,1 +1,1 @@
-print "Hello world kcpd"
+print "Hello world kcpd done done"
